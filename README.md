@@ -1,5 +1,5 @@
 # Actua
-projet groupe actua
+Projet groupe ActuA
 <a href="https://www.figma.com/design/dmh6qdatipLP6qlfXDjFtP/ActuA?node-id=251-28&m=dev&t=XBwWehIq6hcKvXs4-1">Lien Figma</a>
 
 
