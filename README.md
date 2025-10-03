@@ -6,4 +6,4 @@ Projet groupe ActuA <br>
 
 # Description de ma page
 
-Ma Page
+Ma Page est dédiée a la Connexion et à l'inscription d'un utilisateur, elle permet d'acceder à l'interface de connexion qui selon le choix fait par l'utilisateur renverra soit à la page d'accueil, soit à la page d'inscription puis à la page d'accueil 
